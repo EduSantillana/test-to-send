@@ -1,0 +1,8 @@
+{
+  "name": "TestToSend",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "ee6426dc"
+}
